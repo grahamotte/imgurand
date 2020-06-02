@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grahamotte/imgurand/static/css/main.e9afa030.chunk.css",
+    "main.js": "/grahamotte/imgurand/static/js/main.c2da2f4e.chunk.js",
+    "main.js.map": "/grahamotte/imgurand/static/js/main.c2da2f4e.chunk.js.map",
+    "runtime-main.js": "/grahamotte/imgurand/static/js/runtime-main.f67c75e5.js",
+    "runtime-main.js.map": "/grahamotte/imgurand/static/js/runtime-main.f67c75e5.js.map",
+    "static/js/2.b95a4419.chunk.js": "/grahamotte/imgurand/static/js/2.b95a4419.chunk.js",
+    "static/js/2.b95a4419.chunk.js.map": "/grahamotte/imgurand/static/js/2.b95a4419.chunk.js.map",
+    "index.html": "/grahamotte/imgurand/index.html",
+    "precache-manifest.307bdce867fee1556b76e42b715dd454.js": "/grahamotte/imgurand/precache-manifest.307bdce867fee1556b76e42b715dd454.js",
+    "service-worker.js": "/grahamotte/imgurand/service-worker.js",
+    "static/css/main.e9afa030.chunk.css.map": "/grahamotte/imgurand/static/css/main.e9afa030.chunk.css.map",
+    "static/js/2.b95a4419.chunk.js.LICENSE.txt": "/grahamotte/imgurand/static/js/2.b95a4419.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67c75e5.js",
+    "static/js/2.b95a4419.chunk.js",
+    "static/css/main.e9afa030.chunk.css",
+    "static/js/main.c2da2f4e.chunk.js"
+  ]
+}
