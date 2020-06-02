@@ -1,0 +1,18 @@
+body {
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+}
+
+hr {
+  border: 1px solid #000;
+  color: #000;
+}
+
+.grid-item {
+  width: 25%;
+}
+
+img {
+  width: 100%;
+}
