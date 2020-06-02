@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7d7160b62758a0452b53460a0898a66",
+    "revision": "8af2e7c810f73b07380c3ce495f04d09",
     "url": "/imgurand/index.html"
   },
   {
-    "revision": "24437abd9834a5aca77e",
-    "url": "/imgurand/static/css/main.e9afa030.chunk.css"
+    "revision": "ab4ee70a3006e31ed481",
+    "url": "/imgurand/static/css/main.3b6dab93.chunk.css"
   },
   {
     "revision": "7c407d89583efd88f16b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imgurand/static/js/2.b95a4419.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24437abd9834a5aca77e",
+    "revision": "ab4ee70a3006e31ed481",
     "url": "/imgurand/static/js/main.c2da2f4e.chunk.js"
   },
   {
