@@ -11,8 +11,18 @@ hr {
 
 .grid-item {
   width: 25%;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
 }
 
 img {
   width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  margin: 0;
+  padding: 0;
 }

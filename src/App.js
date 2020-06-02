@@ -26,6 +26,8 @@ class App extends React.Component {
       <div className="container">
         <hr />
         <h1>All that the internet has to offer...</h1>
+        <h4>(random imgur images)</h4>
+        <h6>(may be nsfw)</h6>
         <hr />
         <Masonry fitWidth>
           {Object.keys(this.state)
